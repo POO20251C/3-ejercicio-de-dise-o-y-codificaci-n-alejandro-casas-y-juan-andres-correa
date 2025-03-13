@@ -19,6 +19,8 @@ class Cliente {
 
   //Getters
     string getIdCliente();
+    string getNombre();
+    string getDireccion();
 
   private:
   string idCliente;
