@@ -13,15 +13,19 @@ using namespace std;
 class Compra {
   public:
     Compra();
-    Compra(string id, string fecha, string nombreCliente);
-    int calcularPrecio(vector<Producto> productos, vector<int> cantidadProductos);
+    Compra(string id, string fecha, string nombreCliente, bool status);
+
+
+
+    double calcularPrecio(vector<Producto> productos, vector<int> cantidadProductos);
   // Getters
     string getId();
     string getFecha();
     string getNombreCliente();
+    bool getStatus();
 
   // Setters
-    bool setValidarCompras();
+    void setStatus();
 
   private:
     string id;
@@ -29,7 +33,7 @@ class Compra {
     string nombreCliente;
     vector<Producto> productos;
     vector<int> cantidadProductos;
-    bool validarCompra();
+    bool status;
 };
 
 
