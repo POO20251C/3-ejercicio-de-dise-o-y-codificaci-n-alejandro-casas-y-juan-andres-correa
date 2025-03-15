@@ -1,3 +1,0 @@
-C:/Users/caren/OneDrive/Desktop/puraM2/semestre_3/POO/Gonzo_c++/TrabajoGruposAlejandrito1/cmake-build-debug/CMakeFiles/TrabajoGruposAlejandrito1.dir
-C:/Users/caren/OneDrive/Desktop/puraM2/semestre_3/POO/Gonzo_c++/TrabajoGruposAlejandrito1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/caren/OneDrive/Desktop/puraM2/semestre_3/POO/Gonzo_c++/TrabajoGruposAlejandrito1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
