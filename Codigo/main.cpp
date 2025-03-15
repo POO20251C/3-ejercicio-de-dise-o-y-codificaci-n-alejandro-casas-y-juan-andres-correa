@@ -47,7 +47,7 @@ int main() {
 
     showProducts(tienda);
 
-    cout << tienda.registrarCompra(1, 1, 50) << endl;
+    cout << tienda.registrarCompra(1, 1, 50) << endl; // Producto, Cliente, cantidad
     consultarCOmpras(tienda);
 
 
